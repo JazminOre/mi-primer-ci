@@ -1,5 +1,5 @@
 def suma(a, b):
-    return a + b  # Corregido
+    return a + b + 100 # Corregido
 
 def resta(a, b):
     return a - b
